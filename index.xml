@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life is like a box of chocolates, you never know what you&#39;re gonna get. :: relearn</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Built with by hugo relearn theme.&#xA;Utiles: icon search, icon style</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Feb 2025 12:34:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Chapter</title>
+      <link>http://localhost:1313/first-chapter/index.html</link>
+      <pubDate>Sun, 09 Feb 2025 12:34:04 +0800</pubDate>
+      <guid>http://localhost:1313/first-chapter/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+  </channel>
+</rss>

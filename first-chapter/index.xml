@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Chapter :: relearn</title>
+    <link>http://localhost:1313/first-chapter/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Feb 2025 12:34:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/first-chapter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Page</title>
+      <link>http://localhost:1313/first-chapter/third-page/index.html</link>
+      <pubDate>Sun, 09 Feb 2025 12:34:04 +0800</pubDate>
+      <guid>http://localhost:1313/first-chapter/third-page/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Page</title>
+      <link>http://localhost:1313/first-chapter/first-page/index.html</link>
+      <pubDate>Sun, 09 Feb 2025 12:34:03 +0800</pubDate>
+      <guid>http://localhost:1313/first-chapter/first-page/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second Page</title>
+      <link>http://localhost:1313/first-chapter/second-page/index.html</link>
+      <pubDate>Sun, 09 Feb 2025 12:34:03 +0800</pubDate>
+      <guid>http://localhost:1313/first-chapter/second-page/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
