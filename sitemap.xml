@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/first-chapter/index.html</loc>
+    <loc>https://yuexiarenjing.github.io/first-chapter/index.html</loc>
     <lastmod>2025-02-09T12:34:04+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
+    <loc>https://yuexiarenjing.github.io/index.html</loc>
+    <lastmod>2025-02-09T14:47:42+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://yuexiarenjing.github.io/post/new/index.html</loc>
+    <lastmod>2025-02-09T14:47:42+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://yuexiarenjing.github.io/post/index.html</loc>
+    <lastmod>2025-02-09T14:47:42+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://yuexiarenjing.github.io/first-chapter/third-page/index.html</loc>
     <lastmod>2025-02-09T12:34:04+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/first-chapter/third-page/index.html</loc>
-    <lastmod>2025-02-09T12:34:04+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/first-chapter/first-page/index.html</loc>
+    <loc>https://yuexiarenjing.github.io/first-chapter/first-page/index.html</loc>
     <lastmod>2025-02-09T12:34:03+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/first-chapter/second-page/index.html</loc>
+    <loc>https://yuexiarenjing.github.io/first-chapter/second-page/index.html</loc>
     <lastmod>2025-02-09T12:34:03+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>https://yuexiarenjing.github.io/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>https://yuexiarenjing.github.io/tags/index.html</loc>
   </url>
 </urlset>

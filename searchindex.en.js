@@ -16,6 +16,22 @@ var relearn_searchindex = [
     "uri": "/index.html"
   },
   {
+    "breadcrumb": "Life is like a box of chocolates, you never know what you're gonna get. \u003e Posts",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "New",
+    "uri": "/post/new/index.html"
+  },
+  {
+    "breadcrumb": "Life is like a box of chocolates, you never know what you're gonna get.",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Posts",
+    "uri": "/post/index.html"
+  },
+  {
     "breadcrumb": "Life is like a box of chocolates, you never know what you're gonna get. \u003e First Chapter",
     "content": "",
     "description": "",
