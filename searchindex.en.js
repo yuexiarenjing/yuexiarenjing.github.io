@@ -9,8 +9,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "Built with by hugo relearn theme.\nUtiles: icon search, icon style",
-    "description": "Built with by hugo relearn theme.\nUtiles: icon search, icon style",
+    "content": "Built with by hugo relearn theme.\nUtiles: icon search, icon style\nQickStart",
+    "description": "Built with by hugo relearn theme.\nUtiles: icon search, icon style\nQickStart",
     "tags": [],
     "title": "Life is like a box of chocolates, you never know what you're gonna get.",
     "uri": "/index.html"
